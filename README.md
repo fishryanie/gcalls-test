@@ -2,10 +2,15 @@
 
 
 ## Demo
+<div align="center">
+  <video src='https://www.youtube.com/watch?v=rH0MtMuaWLs' width="50%" />
+</div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Built With -->
 ## Built With
-* [React Native](https://reactnative.dev/)
+* [React.js](https://reactjs.org/)
 * [Scss](https://sass-lang.com/)
 * [MUI](https://mui.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>

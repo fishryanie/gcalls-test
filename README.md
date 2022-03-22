@@ -3,7 +3,7 @@
 
 ## Demo
 <div align="center">
-  <video src='https://www.youtube.com/watch?v=rH0MtMuaWLs' width="50%" />
+  [![Watch the video](https://www.youtube.com/watch?v=rH0MtMuaWLs)](https://www.youtube.com/watch?v=rH0MtMuaWLs)
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

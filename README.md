@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/77969603/159544416-898d7cc4-b62d-4605-
 ## Usage
 * Clone repo :arrow_down:
   ```javascript
-  git clone https://github.com/Ryanie217/Flex-App.git
+  git clone https://github.com/Ryanie217/gcalls-test.git
   ```
 
 * **Start Website App**  :globe_with_meridians:

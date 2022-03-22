@@ -1,0 +1,62 @@
+*{padding: 0; margin: 0; box-sizing: border-box; }
+
+/* 
+.App{
+  height: 100vh;
+  text-align: center;
+}
+.content{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button{
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 15px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: brown;
+}
+button:hover{
+  box-shadow: 0px 0px 5px brown;
+}
+
+.icon-phone {
+  height: 100px;
+  width: 100px;
+}
+.icon-phone:hover {
+  transform: translateY(-5%);
+
+}
+
+
+
+.icon-phone > svg {
+  fill: #000;
+  cursor: pointer;
+}
+
+
+.path2 {
+  animation: calling 2.5s ease infinite;
+}
+
+.path3 {
+  animation: calling 2.5s ease-in infinite;
+}
+
+
+@keyframes calling {
+  0%, 50%, 100% {
+    opacity: 0;
+  }
+  
+  25%, 75% {
+    opacity: 1;
+  } */
+/* } */
